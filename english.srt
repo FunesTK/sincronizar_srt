@@ -1,0 +1,11 @@
+1
+00:01:00,000 --> 00:01:30,000
+This is the beginning, starting un minute 1, for 30 seconds
+
+2
+00:05:00,000 --> 00:05:30,000
+This is the intermission
+
+3
+00:10:00,000 --> 00:10:10,500
+This is the end.
